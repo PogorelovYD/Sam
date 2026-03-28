@@ -207,7 +207,8 @@ ORDER BY o.order_date, o.order_id;
 - Средний чек по городам — столбчатая диаграмма
 - Детализация продаж — таблица
 
-<img width="1231" height="624" alt="image" src="СЮДА_ССЫЛКУ_НА_СКРИНШОТ" />
+<img width="1231" height="624" alt="image" src="<img width="2118" height="1227" alt="image" src="https://github.com/user-attachments/assets/3476d498-5f8e-4525-95fc-02cbb1fd2ddc" />
+" />
 
 [открыть дашборд](https://datalens.ru/ae7llcygk6v4u)
 
