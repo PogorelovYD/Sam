@@ -274,7 +274,7 @@ if __name__ == "__main__":
 В это место необходимо вставить скриншот открытого файла `server.py`.
 
 ```markdown
-<img width="1268" height="885" alt="Image" src="https://github.com/user-attachments/assets/64ce13df-2e5b-4095-a724-a98d11c584eb" />
+![Скриншот файла server.py](<img width="1268" height="885" alt="Image" src="https://github.com/user-attachments/assets/64ce13df-2e5b-4095-a724-a98d11c584eb" />)
 ```
 
 ---
