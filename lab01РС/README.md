@@ -166,18 +166,6 @@ message MatchResult {
 }
 ```
 
----
-
-## 📷 Скриншот №1 — файл `game.proto`
-
-В это место необходимо вставить скриншот открытого файла `game.proto` в VS Code.
-
-```markdown
-![Скриншот файла game.proto](screenshots/game_proto.png)
-```
-
----
-
 ## ⚙️ Генерация gRPC-кода
 
 После создания файла `game.proto` была выполнена команда генерации Python-кода:
@@ -199,15 +187,13 @@ game_pb2_grpc.py
 
 ---
 
-## 📷 Скриншот №2 — сгенерированные файлы
-
-В это место необходимо вставить скриншот, где видно сгенерированные файлы:
+## 📷 Скриншот №1 — сгенерированные файлы
 
 - `game_pb2.py`
 - `game_pb2_grpc.py`
 
 ```markdown
-![Скриншот сгенерированных файлов](screenshots/generated_files.png)
+<img width="303" height="297" alt="Image" src="https://github.com/user-attachments/assets/9e8290ea-00f1-4761-a79b-b8f4a137e736" />
 ```
 
 ---
@@ -283,21 +269,17 @@ if __name__ == "__main__":
 
 ---
 
-## 📷 Скриншот №3 — код сервера
+## 📷 Скриншот №2 — код сервера
 
 В это место необходимо вставить скриншот открытого файла `server.py`.
 
 ```markdown
-![Скриншот файла server.py](screenshots/server_code.png)
+<img width="1268" height="885" alt="Image" src="https://github.com/user-attachments/assets/64ce13df-2e5b-4095-a724-a98d11c584eb" />
 ```
 
 ---
 
 ## 📷 Скриншот №4 — запущенный сервер
-
-В это место необходимо вставить скриншот терминала с запущенным сервером.
-
-На скриншоте должно быть видно сообщение:
 
 ```text
 Server started on port 50051
@@ -311,7 +293,7 @@ Server started on port 50051
 ```
 
 ```markdown
-![Скриншот запущенного сервера](screenshots/server_running.png)
+<img width="692" height="240" alt="Image" src="https://github.com/user-attachments/assets/b9cc27a3-817b-43e5-9890-828616f194fa" />
 ```
 
 ---
@@ -390,19 +372,13 @@ if __name__ == "__main__":
 
 ## 📷 Скриншот №5 — код клиента
 
-В это место необходимо вставить скриншот открытого файла `client.py`.
-
 ```markdown
-![Скриншот файла client.py](screenshots/client_code.png)
+<img width="1191" height="860" alt="Image" src="https://github.com/user-attachments/assets/e871a17d-3228-4379-b943-88909aced4c3" />
 ```
 
 ---
 
 ## 📷 Скриншот №6 — работа клиента
-
-В это место необходимо вставить скриншот терминала клиента после запуска.
-
-На скриншоте должен быть виден результат:
 
 ```text
 Отправка: PlayerOne
@@ -414,7 +390,7 @@ if __name__ == "__main__":
 ```
 
 ```markdown
-![Скриншот работы клиента](screenshots/client_result.png)
+<img width="828" height="398" alt="Image" src="https://github.com/user-attachments/assets/d28c68bd-41ca-40b7-b863-afc338261a25" />
 ```
 
 ---
