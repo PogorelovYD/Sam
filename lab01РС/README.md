@@ -192,9 +192,7 @@ game_pb2_grpc.py
 - `game_pb2.py`
 - `game_pb2_grpc.py`
 
-```markdown
 <img width="303" height="297" alt="Image" src="https://github.com/user-attachments/assets/9e8290ea-00f1-4761-a79b-b8f4a137e736" />
-```
 
 ---
 
@@ -271,11 +269,9 @@ if __name__ == "__main__":
 
 ## 📷 Скриншот №2 — код сервера
 
-В это место необходимо вставить скриншот открытого файла `server.py`.
+скриншот открытого файла `server.py`.
 
-```markdown
-![Скриншот файла server.py](<img width="1268" height="885" alt="Image" src="https://github.com/user-attachments/assets/64ce13df-2e5b-4095-a724-a98d11c584eb" />)
-```
+<img width="1268" height="885" alt="Image" src="https://github.com/user-attachments/assets/64ce13df-2e5b-4095-a724-a98d11c584eb" />
 
 ---
 
@@ -291,10 +287,7 @@ Server started on port 50051
 Получен игрок: PlayerOne, level 10
 Получен игрок: PlayerTwo, level 20
 ```
-
-```markdown
 <img width="692" height="240" alt="Image" src="https://github.com/user-attachments/assets/b9cc27a3-817b-43e5-9890-828616f194fa" />
-```
 
 ---
 
@@ -372,9 +365,7 @@ if __name__ == "__main__":
 
 ## 📷 Скриншот №5 — код клиента
 
-```markdown
 <img width="1191" height="860" alt="Image" src="https://github.com/user-attachments/assets/e871a17d-3228-4379-b943-88909aced4c3" />
-```
 
 ---
 
@@ -389,9 +380,7 @@ if __name__ == "__main__":
 Ответ сервера: Match found: PlayerThree vs PlayerFour
 ```
 
-```markdown
 <img width="828" height="398" alt="Image" src="https://github.com/user-attachments/assets/d28c68bd-41ca-40b7-b863-afc338261a25" />
-```
 
 ---
 
